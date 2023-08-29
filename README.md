@@ -1,0 +1,2 @@
+# MyPic
+Github图床
